@@ -1,0 +1,34 @@
+{
+    "EMBED_OK_COLOR": "Green",
+    "EMBED_ERROR_COLOR": "Red",
+    "EMBED_WARNS_COLOR": "Blurple",
+    "ERROR_TIMEOUT_EMBED_COLOR": "Red",
+    "TICKET_EMBEDS_COLOR": "Blurple",
+    "SUGGESTION_EMBED_COLOR": "Blurple",
+    "RANK_INFO_EMBED_COLOR": "Random",
+    "ALL_ECONOMY_EMBEDS_COLOR": "Random",
+    "BOT_INFO_EMBED_COLOR": "Random",
+    "PERMISSIONS_EMBED_COLOR": "Random",
+    "emojis": {
+        "THEME_EMOJI_OK": "<a:yes:1048328184426410004>",
+        "THEME_EMOJI_ERROR": "<a:denied_access:1038554724133257316>"
+    },
+    "responses": {
+        "NO_PERMISSIONS": "You have no permissions to use this command!",
+        "DONE_COMMAND_TITLE": "Done!",
+        "DONE_COMMAND_DESCRIPTION": "Succesfully executed command"  
+    },
+    "authors": {
+        "main": "StarVi#9000",
+        "other": "Seagate#1209"
+    },
+    "info": {
+        "name": "Seagate Default",
+        "version": "1.0.0",
+        "flavour": "Normal",
+        "type_of_theme": "Uncustomizable"
+    },
+    "customization": {
+        "can_be_customized": 0
+    }
+}
