@@ -4,7 +4,7 @@
     "EMBED_WARNS_COLOR": "(#00000 or Example_Color)",
     "ERROR_TIMEOUT_EMBED_COLOR": "(#00000 or Example_Color)",
     "TICKET_EMBEDS_NORMAL": "(#00000 or Example_Color)",
-    "TICKET_EMBEDS_ERROR": "(#00000 or Example_Color),
+    "TICKET_EMBEDS_ERROR": "(#00000 or Example_Color)",
     "SUGGESTION_EMBED_COLOR": "(#00000 or Example_Color)",
     "RANK_INFO_EMBED_COLOR": "(#00000 or Example_Color)",
     "ALL_ECONOMY_EMBEDS_COLOR": "(#00000 or Example_Color)",
