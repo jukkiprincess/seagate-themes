@@ -1,0 +1,35 @@
+{
+    "EMBED_OK_COLOR": "#287F47",
+    "EMBED_ERROR_COLOR": "#C4281C",
+    "EMBED_WARNS_COLOR": "#F5CD30",
+    "ERROR_TIMEOUT_EMBED_COLOR": "#CD544B",
+    "TICKET_EMBEDS_NORMAL": "#6E99CA",
+    "TICKET_EMBEDS_ERROR": "#7B2E2F",
+    "SUGGESTION_EMBED_COLOR": "#6C81B7",
+    "RANK_INFO_EMBED_COLOR": "Random",
+    "ALL_ECONOMY_EMBEDS_COLOR": "#CF6024",
+    "BOT_INFO_EMBED_COLOR": "#96709F",
+    "PERMISSIONS_EMBED_COLOR": "#5B5D69",
+    "emojis": {
+        "THEME_EMOJI_OK": "<:builderman_err:1075151672894034070>",
+        "THEME_EMOJI_ERROR": "<:builderman_err:1075151672894034070>"
+    },
+    "responses": {
+        "NO_PERMISSIONS": "OOF! Rest in robloxians you have no permissions to do that!",
+        "DONE_COMMAND_TITLE": "Sure done!",
+        "DONE_COMMAND_DESCRIPTION": "Executed!"  
+    },
+    "authors": {
+        "main": "StarVi#9000",
+        "other": "Seagate#1209"
+    },
+    "info": {
+        "name": "Roblox Linked Theme",
+        "version": "Roblox",
+        "flavour": "Event",
+        "type_of_theme": "Uncustomizable"
+    },
+    "customization": {
+        "can_be_customized": 0
+    }
+}
